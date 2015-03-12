@@ -1,0 +1,7 @@
+# IDEs and Editors
+*.swp
+.idea/
+*.iml
+
+# Python
+VENV/
