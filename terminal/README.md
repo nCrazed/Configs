@@ -7,3 +7,9 @@ all settings are geared towards it.
 
 * [urxvt-perls](https://github.com/muennich/urxvt-perls) for the URL launcher
 * [monoOne](https://github.com/madmalik/monoOne) font
+
+## Installation
+
+```bash
+ln -s .Xdefaults ~/.Xdefaults
+```
